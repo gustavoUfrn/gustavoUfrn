@@ -11,7 +11,7 @@ I'm currently working as computer maintenance and studying web development to ex
  - 📍 From Ceará-Mirim/RN | Natal/RN
  - 🎯 Always learning something new
 
-##Github Analytics
+### Github Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoUfrn&layout=compact)](https://github.com/gustavoUfrn/github-readme-stats)
 
 ##### Contact
